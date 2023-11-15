@@ -9,5 +9,4 @@ I love programming &#128151; and solve problems&#128373;. It is very sweet when 
 + &#10004;&#65039;git
 + &#10004;&#65039;familiar with DRF
 + &#10004;&#65039;familiar with CSS & HTML
-+ &#10004;&#65039;familiar with MYSQL
-
++ &#10004;&#65039;familiar with MYSQ
