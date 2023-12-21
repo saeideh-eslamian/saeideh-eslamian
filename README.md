@@ -9,10 +9,10 @@ I love programming &#128151; and solve problems&#128373;. It is very sweet when 
 + &#10004;&#65039;git
 + &#10004;&#65039;familiar with DRF
 + &#10004;&#65039;familiar with CSS & HTML
-+ &#10004;&#65039;familiar with MYSQ
++ &#10004;&#65039;familiar with MYSQL
 
 ## My Contact &#9993;&#65039;:
-[My Linkedin](https://linkedin.com/in/saeideh-eslamian/)
+### -[My Linkedin](https://linkedin.com/in/saeideh-eslamian/)
 
 
 ![tell your problem to duck](dino.gif)
