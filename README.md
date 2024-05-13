@@ -1,15 +1,22 @@
 ## Hey, I'm Saeideh &#128075;
+#### Welcome to my homepage🤗
 
-I love programming &#128151; and solve problems&#128373;. It is always satisfying when I solve the problem and see everything work well. I'm interested in Backend development with Python and Django. At this time I'm learning more and more.
+I love programming &#128151; and solve problems&#128373;. It is always satisfying when I solve the problem and see everything work well. I'm interested in Backend development with Python and Django.
+
+---
 
 ## My Skills &#128187; :
-+ &#10004;&#65039;Django
-+ &#10004;&#65039;Python
-+ &#10004;&#65039;git
-+ &#10004;&#65039;familiar with DRF(Django Rest Framework)
-+ &#10004;&#65039;familiar with Docker
-+ &#10004;&#65039;CSS & HTML
-+ &#10004;&#65039;familiar with MYSQL
++ &#10004;&#65039; Django,Django Rest Framework(DRF)
++ &#10004;&#65039; Python, CSS, HTML
++ &#10004;&#65039; Docker, Git 
++ &#10004;&#65039; PostgreSQL
++ &#10004;&#65039; Familiar with Unittest and MockTest
+
+---
 
 ## My Contact &#9993;&#65039;:
 + ### [My Linkedin](https://linkedin.com/in/saeideh-eslamian/)
+
+---  
+
+  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
