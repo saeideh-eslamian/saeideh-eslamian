@@ -1,7 +1,7 @@
 ## Hey, I'm Saeideh &#128075;
 #### Welcome to my homepage🤗
 
-I love programming &#128151; and solve problems&#128373;. It is always satisfying when I solve the problem and see everything work well. I'm interested in Backend development with Python and Django.
+I love programming &#128151; and solve problems&#128373;. It is always satisfying when I solve the problem and see everything work well. I'm interested in Python Backend development.
 
 
 ## My Skills &#128187; :
@@ -9,7 +9,8 @@ I love programming &#128151; and solve problems&#128373;. It is always satisfyin
 + &#10004;&#65039; Python, CSS, HTML
 + &#10004;&#65039; Docker, Git 
 + &#10004;&#65039; PostgreSQL
-+ &#10004;&#65039; Familiar with Unittest and MockTest
++ &#10004;&#65039; Familiar with Unittest and MockTest, Flask
++ &#10004;&#65039; learning more ...&#128526;
 
 
 ## My Contact &#9993;&#65039;:
