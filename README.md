@@ -1,7 +1,7 @@
 ## Hey, I'm Saeideh &#128075;
 #### Welcome to my homepage🤗
 
-I am a junior Python Backend Developer, but that doesn't define my capabilities. I have a passion for learning and growth, which drives me towards becoming a professional. I'm here to prove myself with confidence and dedication.
+I am a Python Backend Developer. I have a passion for learning and growth, which drives me towards becoming a professional. I'm here to prove myself with confidence and dedication.
 
 I love programming&#128151; and solving problems&#128373;. I am always striving to develop my skills and gain new experiences. Open to new challenges, I constantly seek to expand my knowledge and abilities. One of my strengths is being a fast learner who embraces the opportunity to learn new things.
 
