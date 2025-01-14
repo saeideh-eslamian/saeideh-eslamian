@@ -11,7 +11,7 @@ I love programming&#128151; and solving problems&#128373;. I am always striving 
 + &#10004;&#65039; APIs
 + &#10004;&#65039; Python
 + &#10004;&#65039; Docker 
-+ &#10004;&#65039; PostgreSQL & MongoDB
++ &#10004;&#65039; PostgreSQL
 + &#10004;&#65039; Unittest and Mock
 
 ## My Contact &#9993;&#65039;:
